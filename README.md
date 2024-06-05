@@ -42,7 +42,7 @@ A pioneering healthcare research initiative, integrating a state-of-the-art Conv
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ## 💼 Experience
-### Interpe
+### Internpe
 - **Role:** Intern
 - **Duration:** 1 month
 - **Domain:** AIML
