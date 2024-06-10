@@ -41,6 +41,20 @@ A pioneering healthcare research initiative, integrating a state-of-the-art Conv
 - ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+### [EchoSight]
+EchoSight effectively alerts users of these hazards through a multi-modal system consisting of vibration feedback, buzzer notifications, and an integrated voice assistant.
+
+**Key Features:**
+- Computer vision and deep learning algorithms
+- 95% accuracy rate in detecting distant obstacles
+- Enhanced mobility and independence
+
+**Technologies Used:**
+- YOLOv3
+- Faster CNN
+- R-CNN
+- RESNET-50
+
 ## 💼 Experience
 ### Internpe
 - **Role:** Intern
