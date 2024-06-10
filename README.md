@@ -22,9 +22,9 @@ I am passionate about exploring and advancing the fields of Machine Learning and
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Machine Learning and AI
-- Convolutional Neural Networks (CNN)
-- Siamese Neural Network
-- Computer Vision
+- Deep Learning
+- Generative AI
+- Prompt Engineering
 
 ## 📂 Projects
 ### [Dermatec](https://github.com/Varsha20052004/Dermatec.CNN)
@@ -36,8 +36,8 @@ A pioneering healthcare research initiative, integrating a state-of-the-art Conv
 - Comprehensive skin disease monitoring platform
 
 **Technologies Used:**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- CNN
+- SNN
 - ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
