@@ -1,7 +1,9 @@
 # 👩‍💻 S. Varsha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](http://www.linkedin.com/in/varsha-saravanan-85220124b)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Varsha20052004)
+
 [![Email](https://img.shields.io/badge/Email-varshasharavanan@gmail.com-red?logo=gmail)](mailto:varshasharavanan@gmail.com)
 
 ## 📄 My Resume
