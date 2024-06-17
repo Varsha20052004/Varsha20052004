@@ -37,6 +37,10 @@ Leveraging my strong belief in adaptability and rapid learning abilities, I am c
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
+### Backend
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+
 ### Database Management
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
